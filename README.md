@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Esta carpeta contiene todos los datos que se emplean en el *Manual de R para prácticas de Bioestadística*. En particular, se pueden encontrar 4 conjuntos de datos:
+La carpeta *Datos_manual_bioestadistica_R.zip* contiene todos los datos que se emplean en el *Manual de R para prácticas de Bioestadística*. Dentro de ella, se pueden encontrar 4 conjuntos de datos que aparecen en este enlace, que son:
 
 -	*Corazon.txt*: Un fichero de texto que contiene información de varios pacientes afectados con enfermedades cardiovasculares. Se puede leer en R con el comando *read.table(file="Corazon.txt", header=TRUE)*
 -	*Transplantes.csv*: Un fichero de datos que contiene información de varios pacientes con cánceres hematológicos que han recibido un trasplante de médula ósea. Se puede leer en R con el comando *read.csv(file="Trasplantes.csv", sep=";", dec=",")*
