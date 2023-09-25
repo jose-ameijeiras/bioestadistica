@@ -6,6 +6,7 @@ La carpeta [*Datos_manual_bioestadistica_R.zip*](https://github.com/jose-ameijei
 
 -	*corazon.txt*: Un fichero de texto que contiene información de varios pacientes afectados con enfermedades cardiovasculares. Se puede leer en R con el comando *read.table(file="corazon.txt", header=TRUE)*
 -	*transplantes.csv*: Un fichero de datos que contiene información de varios pacientes con cánceres hematológicos que han recibido un trasplante de médula ósea. Se puede leer en R con el comando *read.csv(file="trasplantes.csv", sep=";", dec=",")*
+-	*tuberculosis.csv*: Un fichero de datos que contiene información de varios pacientes con tuberculosis para comprobar si la estreptomicina era efectiva a la hora de combatir esta enfermedad. Se puede leer en R con el comando *read.csv(file="tuberculosis.csv")*
 -	*colestestol5a.csv*: Un fichero de datos que contiene una muestra con el nivel de colesterol de pacientes de una población sana. Se puede leer en R con el comando *read.csv("colestestol5a.csv")*
 -	*colestestol5b.txt*: Un fichero de texto que contiene los niveles de colesterol de pacientes adultos y de pediatría, antes y después de suministrarles una medicación. Se puede leer en R con el comando *read.table("colestestol5b.txt")*
 
